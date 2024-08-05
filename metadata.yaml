@@ -1,0 +1,32 @@
+_repo: Raw-men_74142
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pierce, Frank Richardson
+    alias: Ranger, Seth
+    birthdate: 1881
+    deathdate: 1966
+    gutenberg_agent_id: '57352'
+    url: http://www.gutenberg.org/2009/agents/57352
+description: ''
+gutenberg_issued: '2024-07-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74142'
+language: en
+pgterms:marc905: 20240715193711pierce
+pgterms:marc906: '1924'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: '  $aNew York :$bThe Consolidated Magazines Corporation, $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Shipwreck survival -- Fiction'
+- !lcsh 'Arctic regions -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Raw men
+url: http://www.gutenberg.org/ebooks/74142
